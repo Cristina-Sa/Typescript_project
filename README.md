@@ -12,3 +12,7 @@ In addition, the following is done:
 - One of the person records added is modified, searching by DNI and adding a new address, a new e-mail and a new telephone number. These changes are made by using methods previously defined in the classes.
 
 - Finally, the 3 records with the changes previously made are shown in the console from the main module.
+
+Some visualizations of the results:
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/125372283/229468055-8be18c74-5f9e-48de-9709-cd9f0754a0f3.png">
+<img width="419" alt="image" src="https://user-images.githubusercontent.com/125372283/229468193-dcd97c1e-f8d8-4034-ab6a-799f581508d5.png">
