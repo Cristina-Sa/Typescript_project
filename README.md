@@ -14,5 +14,6 @@ In addition, the following is done:
 - Finally, the 3 records with the changes previously made are shown in the console from the main module.
 
 Some visualizations of the results:
+
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/125372283/229468055-8be18c74-5f9e-48de-9709-cd9f0754a0f3.png">
 <img width="419" alt="image" src="https://user-images.githubusercontent.com/125372283/229468193-dcd97c1e-f8d8-4034-ab6a-799f581508d5.png">
