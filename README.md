@@ -13,7 +13,7 @@ In addition, the following is done:
 
 - Finally, the 3 records with the changes previously made are shown in the console from the main module.
 
-Some visualizations of the results after apply: 
+Some visualizations of the results after run: 
 ```
 node main.js
 ```
